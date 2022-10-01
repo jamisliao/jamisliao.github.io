@@ -1,0 +1,13 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "6CLS73YQRQ.com.blocto.flow.demoapp",
+				"paths": [
+					"*"
+				]
+			}
+		]
+	}
+}
